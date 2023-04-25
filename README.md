@@ -19,6 +19,8 @@ The traing datasets have 891 rows data and 12 columns. The 12 columns are
 - Cabin : the passenger's cabin number
 - Embarked : the port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
 
+In this excercise, I create a model prediction by using Logistic Regression
+
 ## Source
 
 Kaggle: https://www.kaggle.com/c/titanic/data
